@@ -1,2 +1,2 @@
 
-How best to collaborate using git.
+How best to collaborate using git..
