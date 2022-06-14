@@ -1,1 +1,1 @@
-learning how to use git
+learning how to use git the right way
