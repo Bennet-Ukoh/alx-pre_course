@@ -1,1 +1,2 @@
-My first readme
+
+How best to collaborate using git.
