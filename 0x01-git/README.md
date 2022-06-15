@@ -1,1 +1,1 @@
-learning how to use git the right way
+learning how to use git the right way pays
